@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 // Just testing for git
-// Testing from best
+// Testing from best 2
 public class MainActivity extends AppCompatActivity {
 
     ImageView imageView;
